@@ -59,6 +59,3 @@ src/
     utils.ts                    # Utility functions
 ```
 
-## License
-
-MIT
